@@ -1,0 +1,3 @@
+AKSHAY PAI — RESUME PLACEHOLDER
+
+Replace this file with your resume, then update resumeUrl in app/content.ts.
